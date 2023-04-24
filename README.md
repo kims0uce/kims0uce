@@ -1,7 +1,6 @@
 
-👋 Hi there! I am a junior developer in the learning stage. 🌱
-
-🔭 I am currently interested in java and spring boot.
+👋 Hi there! I am a junior developer in the learning stage.<br/>
+I am currently interested in java and spring boot.🔭
 
 
 ### 🛠 Stack
