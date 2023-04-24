@@ -11,7 +11,7 @@ I am currently interested in java and spring boot.🔭
 
 
 <!--
-**kimsouce0/kims0uce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kims0uce/kims0uce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
