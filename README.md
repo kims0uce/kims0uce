@@ -1,4 +1,15 @@
-### Hi there 👋
+
+👋 Hi there! I am a junior developer in the learning stage. 🌱
+
+🔭 I am currently interested in java and spring boot.
+
+
+### 🛠 Stack
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=FFFFFF"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/cpp-00599C?style=plastic&logo=cplusplus&logoColor=FFFFFF"/></a>
+
+
+
 
 <!--
 **kimsouce0/kimsouce0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsouce0&show_icons=true&theme=flag-india)
+
