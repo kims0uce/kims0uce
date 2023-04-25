@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kims0uce&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kims0uce&show_icons=true&theme=swift)
 
