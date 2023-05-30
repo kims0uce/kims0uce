@@ -1,6 +1,6 @@
 
 👋 Hi there! I am a junior developer in the learning stage.<br/>
-I am currently interested in java and spring boot.🔭 (사실 아님)
+I am currently interested in React.🔮
 
 
 ### 🛠 Stack
